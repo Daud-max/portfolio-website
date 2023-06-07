@@ -1,0 +1,119 @@
+
+ body{
+    margin:0px;
+    text-align: center ;
+    background-color:rgba(250, 235, 215, 0.486);
+    font-family: 'Montserrat', sans-serif;
+
+
+
+}
+h1{
+margin: 0px;
+font-size:5.625rem ;
+font-weight:bolder;
+line-height: 2;
+
+
+font-family: 'Sacramento', cursive;
+}
+p{
+    color: rgb(56, 56, 56);
+    font-weight: bold;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.7rem;
+    color: #66BFBF;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+.first-container{
+    color: #66BFBF;
+ background-color: #FFF8EA;
+ position: relative;
+padding-top: 100px;}
+.sec-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 350px;}
+.first-cloud{
+    position: absolute;
+    right: 400px;
+    top: 60px;}
+    .middle-container{
+        width: 50%;
+        margin: 100px auto 100px auto ;
+    }
+
+    .profile{
+       
+        margin: 100px auto 100px auto ;
+    }
+    .skill-row{
+       
+        margin: 100px auto 100px auto ;
+        text-align: left;
+        
+    }
+    .img-chilies{
+        float: left;
+        width: 25%;
+        margin-right: 40px;
+    }
+    .chilli-description{
+    clear: left;
+    padding: 30px;
+    line-height: 2;
+    }
+  
+    .img-computer{
+        float: right;
+        width: 25%;
+        margin-right: 40px;
+    }
+    .computer-description{
+    clear: right;
+    padding: 30px;
+    line-height: 2;
+    }
+    .bottom-container{
+        background-color: #66BFBF;
+    }
+    .btn{
+       
+        text-decoration: none;
+        color: #FFF8EA;
+       
+    }
+    .btn-div{
+        
+        width: 120px;
+        height: 30px;
+        padding-top: 8px;
+        text-align: center;
+       border-radius: 6px;
+        background-color: #66BFBF;
+        margin: 50px auto 30px auto;
+       
+      
+    }
+    .btn-div:hover{
+        background-color: #1fc4c4;
+    }
+  .footer-link{
+   text-decoration: none; 
+   color: #FFF8EA;
+  }
+  .footer-link:hover{
+    color: blue;
+  }
+  hr{
+   width: 4%; 
+ ;
+   border-top:none;
+   border:dotted grey 6px;
+  }
